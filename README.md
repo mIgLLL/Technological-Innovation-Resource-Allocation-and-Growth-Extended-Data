@@ -1,3 +1,5 @@
+# Just for backup
+
 # Extended Data (till 2022) following Kogan, L., Papanikolaou, D., Seru, A. and Stoffman, N., 2017 
  
 This data provides an updated data series for KPSS values and forward citations, a patent number to the CRSP "permno" match and a patent number to CPC class match following the paper **Kogan, L., Papanikolaou, D., Seru, A. and Stoffman, N., 2017. Technological innovation, resource allocation, and growth. Quarterly Journal of Economics, 132(2), pp. 665-712.** The paper is available at https://academic.oup.com/qje/article/132/2/665/3076284.
